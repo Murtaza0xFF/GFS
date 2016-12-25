@@ -1,0 +1,11 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/app/src/main/java/com/theeaglehaslanded/goalazo/utils/Credentials.java
+/app/google-services.json
+/**/*.apk 
+/**/*.jks
