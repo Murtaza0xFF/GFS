@@ -1,5 +1,7 @@
 
 ##Screenshot
 
-![Screenshot 1](http://i.imgur.com/OttqsYy.png)
-![Screenshot 2](http://i.imgur.com/ZHZgw7t.png)
+
+
+<img src="http://i.imgur.com/OttqsYy.png" width="200"/> <img src="http://i.imgur.com/ZHZgw7t.png" width="300"/>
+
